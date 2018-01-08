@@ -6,3 +6,4 @@ I have learnt how to:
 - Install Github Desktop
 - Create a local repository
 - Commit Changes to my repository
+- Publish my code to Github.com
